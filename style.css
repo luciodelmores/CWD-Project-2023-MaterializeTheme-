@@ -1,0 +1,18 @@
+.dashboard-title {
+    font-weight: 800;
+}
+.card-value {
+    font-weight: 500;
+    font-size: 25px;
+}
+
+.fa-angle-up {
+    margin-right: 5px;
+}
+
+.sidenav-logo {
+    padding-top: 12px;
+}
+.arrow-drop{
+    margin-left: 100px;
+}
